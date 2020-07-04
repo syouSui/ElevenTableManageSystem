@@ -21,7 +21,7 @@
 
 部分图片效果
 
-==**[(若网络原因图片无法访问请点击跳转查看图床)](http://etms.acmaker.vip/pic.html)**==
+**[(若网络原因图片无法访问请点击跳转查看图床)](http://etms.acmaker.vip/pic.html)**
 
 
 ![若网络原因图片无法访问请复制链接查看http://picgo.acmaker.vip/image--bed--PicGo/20200704120241.png?x-oss-process=image](http://picgo.acmaker.vip/image--bed--PicGo/20200704120241.png?x-oss-process=image)
