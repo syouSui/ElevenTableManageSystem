@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/*
+ *@Author      : acmaker
+ *@Date        : 2020-06-15 21:30:46
+ *@LastEditTime: 2020-06-18 15:13:00
+ *@FilePath    : \webapp\css\platform.css
+ *@Website     : http://csdn.acmaker.vip
+ *@Description : 
+*/
+
+
+.bg {
+  /* background-image: url('http://picgo.acmaker.vip/image--bed--PicGo/trees.png?x-oss-process=image'); */
+  /* background-image: url('http://picgo.acmaker.vip/image--bed--PicGo/dust_scratches.png?x-oss-process=image ') !important; */
+  background-image: url('http://picgo.acmaker.vip/image--bed--PicGo/hypnotize.png?x-oss-process=image') !important;
+  /* background-image:url('http://picgo.acmaker.vip/image--bed--PicGo/playstation-pattern.png?x-oss-process=image') !important; */
+}
+
+body{
+  overflow-x:hidden;
+}
+
+#header {
+  /* margin-bottom:1vh; */
+
+}
+
+#header span {
+  /* vertical-align:center; */
+}
+
+#left {
+  height: 100vh !important;
+  /* background-image: url(' http://picgo.acmaker.vip/image--bed--PicGo/dust_scratches.png?x-oss-process=image ') !important; */
+  background: white !important;
+  margin: 0 !important;
+  overflow: hidden;
+}
+
+#nav_bar {
+  height: 100vh !important;
+  margin-top: 1vh !important;
+}
+
+#right {
+  margin-top: 1vh !important;
+}

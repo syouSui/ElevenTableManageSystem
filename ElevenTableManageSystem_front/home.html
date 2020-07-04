@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--
+ * @Author      : acmaker
+ * @Date        : 2020-06-16 17:21:33
+ * @LastEditTime: 2020-06-22 10:03:26
+ * @FilePath    : \ElevenTableManageSystem_front\home.html
+ * @Website     : http://csdn.acmaker.vip
+ * @Description : 
+-->
+
+
+<html>
+
+<head>
+  <title>Title</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link href="./img/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+  <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css" rel="stylesheet"
+    integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
+  <link href="./css/util.css" type="text/css" rel="stylesheet" />
+  <link href="./css/sys.css" type="text/css" rel="stylesheet" />
+  <link href="./css/home.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+  <div class="alert alert-info alert-dismissible" role="alert"
+    style="text-align:center;font-weight: 900;font-size:400%;">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
+        aria-hidden="true">&times;</span></button>
+    <strong>欢迎登入!</strong>
+  </div>
+
+  <div class="pull-right">
+    <div class="col-sm-6 col-md-6">
+      <div class="thumbnail">
+        <img src="http://picgo.acmaker.vip/image--bed--PicGo/57260481?x-oss-process=image" alt="...">
+        <div class="caption">
+          <h3>syouSui</h3>
+          <p>a coding fan </p>
+          <p><a href="#" class="btn btn-success" role="button">&emsp;😁&emsp;</a> <a href="#"
+              class="btn btn-info pull-right" role="button">&emsp;🙈&emsp;</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="jumbotron">
+
+    <h1 style="font-weight:900;">Hello, friends!</h1>
+    <p>Welcome to my back system!🎉
+    <p>
+    <p>You can follow me if you like it!👀
+    <p>
+    <p>
+      Visit my
+      <a class="btn btn-primary btn-lg" href="https://github.com/syousui" target="_blank" role="button">&emsp;
+        Github&emsp;</a>
+      Or
+      <a class="btn btn-primary btn-lg" href="https://blog.csdn.net/weixin_44510468/" target="_blank"
+        role="button">&emsp;&emsp;Blog&emsp;&emsp;</a>
+      💗 </p>
+
+
+  </div>
+
+  <div class="page-header">
+    <h1>Example page header <small>Subtext for header</small></h1>
+  </div>
+
+  <div class="well well-lg" style="font-weight:900;font-size:150%;">
+    <p>If you have some suggestions, welcome to connect me!😉</p>
+    <p><a href="http://justTouSan@gmail.com" target="_blank" class="btn btn-warning"
+        role="button">justTouSan@gmail.com</a></p>
+  </div>
+
+
+  <div class="panel panel-warning">
+    <div class="panel-heading">
+      <h3 class="panel-title" style="font-weight:900;font-size:200%;"> 🌹 The Update Panel 🌹</h3>
+    </div>
+    <div class="panel-body">
+      <div>
+      <h3> 待更新！</h3>
+      <p> 「权限验证」：待更新！当用户登录系统之后，如果关闭浏览器会导致，再次登录时提示此用户已登录，目前无法登录问题。</p>
+      <h3> 2020.6.22 </h3>
+      <p>「bug修复 」：修复了当登录之后关闭窗口重新再次访问域名无法跳转到管理页面的问题. </p>
+      <h3> 2020.6.20 </h3>
+      <p>「bug修复1」：修复当session销毁时, 其他请求的request.getSession()导致session再次新建, 从而导致监听器监听在线人数监听不准确的问题. </p>
+      <p>「bug修复2」：修复了 AccountService 中判断用户离线没有返回值从而导致前端权限检测页面跳转失效的问题.
+      <p>「结构优化」：对 AccountService 用户服务层返回值全部进行了检查. 
+      <p>「目录改动」：再次完善了跨域访问部分. 整个项目完全采用前后端分离架构的模式.
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- -->
+  <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+  <script src="./js/MY.js" type="text/javascript"> </script>
+  <script src="./js/home.js" type="text/javascript"> </script>
+</body>
+
+</html>

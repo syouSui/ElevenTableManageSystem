@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--
+ * @Author      : acmaker
+ * @Date        : 2020-06-16 05:51:49
+ * @LastEditTime: 2020-06-16 06:09:43
+ * @FilePath    : \webapp\test.html
+ * @Website     : http://csdn.acmaker.vip
+ * @Description : 
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <div id="wrap" style="background: red;width: 100px;height:100px;"></div>
+  <button id="clk">button</button>
+  
+ 
+ 
+  
+</body>
+
+</html>
+<script type="text/javascript">
+  $('#clk').click(function () {
+      $('<input />', {
+        id: 'cbx',
+        name: 'cbx',
+        type: 'checkbox',
+        checked: 'checked',
+        click: function () {
+          alert("点我了~~");
+        }
+      }).appendTo($('#wrap'));
+  });
+</script>
