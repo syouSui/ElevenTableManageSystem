@@ -6,7 +6,7 @@
 前端全部使用ajax异步请求, 网页切换很流畅
 
 ## project preview
-** [项目已部署, 点击体检 http://etms.acmaker.vip](http://etms.acmaker.vip) **
+**[项目已部署, 点击体检 http://etms.acmaker.vip](http://etms.acmaker.vip)**
 
 ## security
 
@@ -21,11 +21,11 @@
 
 部分图片效果
 
-![](http://picgo.acmaker.vip/image--bed--PicGo/20200704120241.png?x-oss-process=image)
+![若网络原因图片无法访问看请复制链接查看http://picgo.acmaker.vip/image--bed--PicGo/20200704120241.png?x-oss-process=image](http://picgo.acmaker.vip/image--bed--PicGo/20200704120241.png?x-oss-process=image)
 
-![](http://picgo.acmaker.vip/image--bed--PicGo/20200704115937.png?x-oss-process=image)
+![若网络原因图片无法访问看请复制链接查看http://picgo.acmaker.vip/image--bed--PicGo/20200704115937.png?x-oss-process=image](http://picgo.acmaker.vip/image--bed--PicGo/20200704115937.png?x-oss-process=image)
 
-![](http://picgo.acmaker.vip/image--bed--PicGo/20200704120028.png?x-oss-process=image)
+![若网络原因图片无法访问看请复制链接查看http://picgo.acmaker.vip/image--bed--PicGo/20200704120028.png?x-oss-process=image](http://picgo.acmaker.vip/image--bed--PicGo/20200704120028.png?x-oss-process=image)
 
-![](http://picgo.acmaker.vip/image--bed--PicGo/20200704120153.png?x-oss-process=image)
+![若网络原因图片无法访问看请复制链接查看 http://picgo.acmaker.vip/image--bed--PicGo/20200704120153.png?x-oss-process=image](http://picgo.acmaker.vip/image--bed--PicGo/20200704120153.png?x-oss-process=image)
 
