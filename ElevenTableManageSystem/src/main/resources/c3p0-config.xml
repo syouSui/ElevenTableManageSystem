@@ -6,7 +6,7 @@
   <!-- 命名的配置 -->
   <named-config name="mysql">
     <property name="driverClass">com.mysql.jdbc.Driver</property>
-    <property name="jdbcUrl">jdbc:mysql://acmaker.vip/ElevenTableManageSystem?useUnicode=true&amp;characterEncoding=utf8 </property>
+    <property name="jdbcUrl">jdbc:mysql://db.acmaker.vip/ElevenTableManageSystem?useUnicode=true&amp;characterEncoding=utf8 </property>
     <property name="user">javaUser</property>
     <property name="password">java</property>
     <!--扩展配置-->
